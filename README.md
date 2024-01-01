@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Backend Projects**
 
-- 🌱 I’m currently learning **Node js , Express js , Nest js**
+- 🌱 I’m currently learning **.Net Core and experienced in Node js , Express js**
 
 - 💬 Ask me about **Node js**
 
