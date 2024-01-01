@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **.Net Core and experienced in Node js , Express js**
 
-- 💬 Ask me about **Node js**
+- 💬 Ask me about **Node js / .Net Core **
 
 - 📫 How to reach me **eslamelmoataz7@gmail.com**
 
