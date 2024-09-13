@@ -1,15 +1,17 @@
 Hi 👋 My name is Eslam Moataz
 =============================
 
-Software Engineer | Backend Developer
+Software Engineer | Backend Developer | .NET Specialist
 -------------------------------------
 
-I'm a dedicated software engineering student with a passion for problem-solving and a strong foundation in various programming languages.
+I'm a full-time Software Engineer focusing on backend development with .NET. I have a strong foundation in building scalable and efficient backend systems,
+along with hands-on experience in Node.js and Express.js. I enjoy solving complex problems and contributing to innovative projects.
+
 
 * 🌍  I'm based in Egypt
 * ✉️  You can contact me at [eslamelmoataz7@gmail.com](mailto:eslamelmoataz7@gmail.com)
-* 🧠  I'm learning .Net Core and experienced in Node js , Express js
-* 🤝  I'm open to collaborating on Open Source Projects
+* 🧠  Currently working full-time as a backend developer with .NET Core and expanding my knowledge while leveraging my experience in Node.js and Express.js.
+* 🤝  Open to collaborating on Open Source Projects and contributing to innovative backend solutions.
 
 ### Skills
 
